@@ -1,9 +1,5 @@
 # Cpf-Generator
 
-[![PyPI Version](https://img.shields.io/pypi/v/cpf-generator.svg)](https://pypi.python.org/pypi/brute)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/cpf-generator.svg)](https://pypi.python.org/pypi/cpf-generator)
-[![Travis Build Status](https://img.shields.io/travis/user-kbite/cpf-generator.svg)](https://travis-ci.org/user-kbite/cpf-generator)
-
 <p align="center">
     <img src="https://blog.education-ecosystem.com/wp-content/uploads/2018/12/2_rx0sg1.png"/>
 </p>
