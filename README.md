@@ -1,5 +1,5 @@
 # Cpf-Generator
-<p align="center" width="100">
+<p align="center">
     <img src="https://blog.education-ecosystem.com/wp-content/uploads/2018/12/2_rx0sg1.png"/>
 </p>
 <br><br>
