@@ -1,4 +1,3 @@
-![GitHub](https://img.shields.io/github/license/user-kbite/cpf-generator) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/user-kbite/cpf-generator)
 
 # Cpf-Generator
