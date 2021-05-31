@@ -10,7 +10,9 @@
     cd cpf-generator<br>
     ls<br>
     pip install -r requirements.txt<br>
-    python3 cpf.py <strong>[amount of cpfs]</strong><br>
+    ```
+    python3 cpf.py <strong>[amount of cpfs]</strong>
+    ```<br>
 
 
 
