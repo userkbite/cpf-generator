@@ -1,7 +1,7 @@
 # Cpf-Generator
 
 <p align="center">
-    <img src="https://blog.education-ecosystem.com/wp-content/uploads/2018/12/2_rx0sg1.png"/>
+    <img src="https://blog.education-ecosystem.com/wp-content/uploads/2018/12/2_rx0sg1.png" height="50"/>
 </p>
 <br><br>
     Installation<br>
