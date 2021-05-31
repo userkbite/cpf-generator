@@ -4,7 +4,7 @@
     <img src="https://blog.education-ecosystem.com/wp-content/uploads/2018/12/2_rx0sg1.png" height="150"/>
 </p>
 <br><br>
-    <h1>Installation</h1><br>
+    <h3>Installation</h3><br>
     pkg install -y git<br>
     git clone https://github.com/user-kbite/cpf-generator<br>
     cd cpf-generator<br>
