@@ -3,9 +3,14 @@
 from requests import post
 import sys
 
-amount = int(sys.argv[1])
+try:
+    amount = int(sys.argv[1])
+        for i in range(0, amount):
+	    url = post('https://www.4devs.com.br/ferramentas_online.php',{"acao":"gerar_cpf","pontuacao":"S"})
+	    response = url.text
+	    print(response)
+except IndexError:
+    print('Utilize: python3 cpf.py (quantidade de cpfs a ser gerado)')
 
-for i in range(0, amount):
-    url = post('https://www.4devs.com.br/ferramentas_online.php',{"acao":"gerar_cpf","pontuacao":"S"})
-    response = url.text
-    print(response)
+except ValueError:
+    print('É Necessário passar um valor inteiro ex: 1, 2, 3')
